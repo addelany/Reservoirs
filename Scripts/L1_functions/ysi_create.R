@@ -2,7 +2,7 @@
 # QAQC of YSI and PAR data from 2023
 # Created by ADD, modified by HLW, and ABP
 # First developed: 2023-12-04
-# Last edited: 2025-11-12 
+# Last edited: 2026-11-19 
 # changed as.Date to as.Date.character because as.Date would add a day if time close to mindnight
 # 2025-02-18 added an if statement to end the function if there were no observations for the year
 # 2025-11-12 added a print statement for the dups and condensed some of the file type renaming 
