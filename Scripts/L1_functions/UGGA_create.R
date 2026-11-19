@@ -1,7 +1,7 @@
 ## AUTOMATED L1 QAQC SCRIPT FOR UGGA 
 #This QAQC cleaning script was applied to create the data files included in this data package
 ## Authors: Austin Delany and Abby Lewis
-## Last edited: 09-05-2024 A. Breef-Pilz did major updates and added in a maintenance log, combine historical files, and subset data
+## Last edited: 2026-11-19 A. Breef-Pilz did major updates and added in a maintenance log, combine historical files, and subset data
 ## 12 Feb 2025- added a statement to end the script if no new data for the year. 
 ## 16 Jan 2026 - moved reps down to be calculated after the maintenance log
 
